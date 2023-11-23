@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1062463341233",
+    "project_id": "newshopapp-5dc52",
+    "storage_bucket": "newshopapp-5dc52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062463341233:android:f4e58e7e60d6fcd2c11890",
+        "android_client_info": {
+          "package_name": "com.NewaDMIN23.shpAppx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062463341233-ecbehjm3lmvqo54o1s5eje70stsra94c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjdjLDoLe2A0YK38WMIy1RKiAEyX3W7qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062463341233-ecbehjm3lmvqo54o1s5eje70stsra94c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062463341233:android:214c19ee4d7d32fec11890",
+        "android_client_info": {
+          "package_name": "com.SHPOX23.APPS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062463341233-ecbehjm3lmvqo54o1s5eje70stsra94c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjdjLDoLe2A0YK38WMIy1RKiAEyX3W7qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062463341233-ecbehjm3lmvqo54o1s5eje70stsra94c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
